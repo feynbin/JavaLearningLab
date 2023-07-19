@@ -4,17 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95208c07-fb72-40fb-bf97-0358cbe4ab5c" name="更改" comment="" />
+    <list default="true" id="95208c07-fb72-40fb-bf97-0358cbe4ab5c" name="更改" comment="committed changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="63631a80-56d4-4f04-a6da-5831b9314fe8" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" environment="test" />
   </component>
   <component name="ProjectId" id="2SMiLpzKcd4Fmq1gXrqJu71WZJn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,10 +46,29 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="应用程序.HelloWorld">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="JavaLearningLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rest-api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" requestIdentifier="#1" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.HelloWorld" />
+        <item itemvalue="HTTP 请求.rest-api | #1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -46,8 +78,68 @@
       <option name="presentableId" value="Default" />
       <updated>1688962798875</updated>
       <workItem from="1688962800191" duration="953000" />
-      <workItem from="1688963770308" duration="630000" />
+      <workItem from="1688963770308" duration="1895000" />
+      <workItem from="1688992418735" duration="749000" />
+      <workItem from="1689208166377" duration="854000" />
+      <workItem from="1689490711795" duration="763000" />
+      <workItem from="1689492819923" duration="612000" />
+      <workItem from="1689501695569" duration="131000" />
+      <workItem from="1689519777752" duration="445000" />
+      <workItem from="1689520246152" duration="479000" />
+      <workItem from="1689599061271" duration="372000" />
+      <workItem from="1689600224556" duration="1929000" />
+      <workItem from="1689808261319" duration="620000" />
+      <workItem from="1689808934609" duration="541000" />
     </task>
+    <task id="LOCAL-00001" summary="committed changes">
+      <option name="closed" value="true" />
+      <created>1689520023307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689520023307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="committed changes">
+      <option name="closed" value="true" />
+      <created>1689520125757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689520125757</updated>
+    </task>
+    <task id="LOCAL-00003" summary="committed changes">
+      <option name="closed" value="true" />
+      <created>1689520287942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689520287942</updated>
+    </task>
+    <task id="LOCAL-00004" summary="committed changes">
+      <option name="closed" value="true" />
+      <created>1689520370478</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689520370478</updated>
+    </task>
+    <task id="LOCAL-00005" summary="committed changes">
+      <option name="closed" value="true" />
+      <created>1689809023984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689809023984</updated>
+    </task>
+    <task id="LOCAL-00006" summary="committed changes">
+      <option name="closed" value="true" />
+      <created>1689809061835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689809061835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,5 +155,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="committed changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="committed changes" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
